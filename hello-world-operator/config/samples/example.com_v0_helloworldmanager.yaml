@@ -1,0 +1,7 @@
+apiVersion: example.com.example.com/v0
+kind: HelloWorldManager
+metadata:
+  name: helloworldmanager-sample
+spec:
+  # Add fields here
+  foo: bar
